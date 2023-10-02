@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-dash/static/css/main.8941f0d7.css",
+    "main.js": "/react-dash/static/js/main.99787e54.js",
+    "index.html": "/react-dash/index.html",
+    "main.8941f0d7.css.map": "/react-dash/static/css/main.8941f0d7.css.map",
+    "main.99787e54.js.map": "/react-dash/static/js/main.99787e54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8941f0d7.css",
+    "static/js/main.99787e54.js"
+  ]
+}
